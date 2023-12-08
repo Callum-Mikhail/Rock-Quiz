@@ -1,0 +1,16 @@
+body {
+  padding: 25px;
+  width: 600px;
+  margin: 25px auto;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  background-color: rgb(37, 46, 59);
+  border: 2px solid rgb(190, 86, 74);
+}
+html {
+  background-image: url(img/background.avif);
+}
+p,
+h1,
+h2 {
+  color: whitesmoke;
+}
